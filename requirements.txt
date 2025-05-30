@@ -5,7 +5,7 @@ pandas==2.2.0
 numpy==1.26.3
 nltk==3.8.1
 scikit-learn==1.4.0
-tensorflow==2.15.0
+tensorflow==2.16.1
 pytesseract==0.3.10
 Pillow==10.2.0
 google-generativeai==0.3.2
