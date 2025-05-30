@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "rajastan"
+version = "1.0.0"
+description = "its for my app"
+authors = ["rajastan"]
+license = "rajastan"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+my = "1.3.0"
+requests = "^2.25"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
